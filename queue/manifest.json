@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "id": "republish-voce-e-real",
+    "type": "reels",
+    "media_url": "https://raw.githubusercontent.com/vtrzmartil-stack/persona-ia-publisher/main/media/reel-caixinha-voce-e-real.mp4",
+    "caption": "Caixinha de perguntas 💬 \"Você é real?\" — a pergunta que mais recebo por aqui 😅 Sou uma persona gerada por IA, com rosto 100% consistente em todas as fotos e vídeos. Manda sua pergunta nos comentários! 👇\n\nCrie a sua também: persona-ia.pages.dev/comprar\n#personaia #modelovirtual #iainfluencer #inteligenciaartificial #avatarvirtual",
+    "theme": "explicativo",
+    "status": "pending"
+  },
+  {
+    "id": "republish-bora-treinar",
+    "type": "reels",
+    "media_url": "https://raw.githubusercontent.com/vtrzmartil-stack/persona-ia-publisher/main/media/reel-bora-treinar.mp4",
+    "caption": "Bora treinar? 💪 Um gole de água, foco total e seguindo o plano de hoje.\n\nQuer criar sua própria modelo virtual com rosto consistente? Link na bio 🔗 persona-ia.pages.dev/comprar\n#iagenerativa #inteligenciaartificial #virtualinfluencer #fitness",
+    "theme": "conteudo",
+    "status": "pending"
+  },
+  {
+    "id": "republish-tempo-criar",
+    "type": "reels",
+    "media_url": "https://raw.githubusercontent.com/vtrzmartil-stack/persona-ia-publisher/main/media/reel-caixinha-tempo-criar.mp4",
+    "caption": "Caixinha de perguntas 💬 \"Quanto tempo leva pra criar uma modelo virtual?\" Com os prompts certos, a primeira foto sai em minutos — o difícil é manter o rosto igual, e isso eu já resolvi 😉\n\nLink na bio: persona-ia.pages.dev/comprar\n#personaia #modelovirtual #iainfluencer #avatarvirtual",
+    "theme": "explicativo",
+    "status": "pending"
+  },
+  {
+    "id": "republish-um-gole-uma-risada",
+    "type": "reels",
+    "media_url": "https://raw.githubusercontent.com/vtrzmartil-stack/persona-ia-publisher/main/media/reel-um-gole-uma-risada.mp4",
+    "caption": "Um gole, uma risada, um momento só meu ☕😂\n\nCrie sua própria modelo de IA como essa, com rosto 100% consistente: persona-ia.pages.dev/comprar\n#lifestyle #cafeteria #iagenerativa #fyp",
+    "theme": "conteudo",
+    "status": "pending"
+  },
+  {
+    "id": "republish-ganhar-dinheiro",
+    "type": "reels",
+    "media_url": "https://raw.githubusercontent.com/vtrzmartil-stack/persona-ia-publisher/main/media/reel-caixinha-ganhar-dinheiro.mp4",
+    "caption": "Caixinha de perguntas 💬 \"Dá pra ganhar dinheiro com isso?\" Sim! Modelos virtuais já geram receita com conteúdo, parcerias e até produtos próprios 💰\n\nLink na bio: persona-ia.pages.dev/comprar\n#personaia #modelovirtual #iainfluencer #avatarvirtual",
+    "theme": "venda",
+    "status": "pending"
+  },
+  {
+    "id": "republish-programar",
+    "type": "reels",
+    "media_url": "https://raw.githubusercontent.com/vtrzmartil-stack/persona-ia-publisher/main/media/reel-caixinha-programar.mp4",
+    "caption": "Caixinha de perguntas 💬 \"Preciso saber programar?\" Não! É só prompt — método testado, sem código. Qualquer pessoa pode criar sua modelo virtual 🙌\n\nLink na bio: persona-ia.pages.dev/comprar\n#personaia #modelovirtual #iainfluencer #avatarvirtual",
+    "theme": "explicativo",
+    "status": "pending"
+  }
+]
