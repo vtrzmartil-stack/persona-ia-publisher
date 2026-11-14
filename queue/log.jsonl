@@ -1,2 +1,4 @@
 {"id": "republish-voce-e-real", "result": "failed", "error": "Container 18237911770326116 entrou em ERROR", "ts": "2026-11-14T17:35:11Z"}
 {"id": "republish-bora-treinar", "result": "failed", "error": "Container 18237911779326116 entrou em ERROR", "ts": "2026-11-14T17:35:33Z"}
+{"id": "republish-voce-e-real", "result": "success", "media_id": "18037123289855395", "ts": "2026-11-14T22:01:03Z"}
+{"id": "republish-bora-treinar", "result": "success", "media_id": "18091754795272265", "ts": "2026-11-14T22:01:46Z"}
