@@ -1,0 +1,50 @@
+name: Publicar no Instagram
+
+on:
+  schedule:
+    # Horários em UTC (BRT = UTC-3)
+    - cron: "0 12 * * *"  # 09:00 BRT — manhã
+    - cron: "0 18 * * *"  # 15:00 BRT — tarde
+    - cron: "0 21 * * *"  # 18:00 BRT — noite
+  workflow_dispatch:
+    inputs:
+      posts_per_run:
+        description: "Quantos itens pending publicar nesta execução"
+        required: false
+        default: "2"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: persona-ia-publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Publicar itens pendentes
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          POSTS_PER_RUN: ${{ github.event.inputs.posts_per_run || '2' }}
+        run: python publish.py
+
+      - name: Salvar status da fila (manifest + log)
+        run: |
+          git config user.name "persona-ia-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add queue/manifest.json queue/log.jsonl
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: atualiza status da fila de publicação [skip ci]"
+            git push
+          else
+            echo "Nada para commitar."
+          fi
