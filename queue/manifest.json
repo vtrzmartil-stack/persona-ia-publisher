@@ -78,5 +78,21 @@
     "status": "published",
     "published_media_id": "18039439658886937",
     "published_at": "2026-11-15T01:11:31Z"
+  },
+  {
+    "id": "novo-explicativo-01",
+    "type": "reels",
+    "media_url": "https://raw.githubusercontent.com/vtrzmartil-stack/persona-ia-publisher/main/media/reels-novos/explicativo-01.mp4",
+    "caption": "Isso aqui não é uma mulher real — é uma modelo virtual gerada por IA, com rosto 100% consistente em toda foto e vídeo 🤖\n\nCrie a sua também: persona-ia.pages.dev/comprar\n#personaia #modelovirtual #iainfluencer #inteligenciaartificial #avatarvirtual",
+    "theme": "explicativo",
+    "status": "pending"
+  },
+  {
+    "id": "novo-exemplo-01",
+    "type": "reels",
+    "media_url": "https://raw.githubusercontent.com/vtrzmartil-stack/persona-ia-publisher/main/media/reels-novos/exemplo-01.mp4",
+    "caption": "Moda também é um dos nichos que mais funcionam com modelo virtual de IA 🔥 Quer ver como fica no seu nicho?\n\nLink na bio: persona-ia.pages.dev/comprar\n#personaia #modelovirtual #iainfluencer #inteligenciaartificial #avatarvirtual #moda",
+    "theme": "exemplo",
+    "status": "pending"
   }
 ]
