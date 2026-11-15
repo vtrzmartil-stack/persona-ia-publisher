@@ -54,5 +54,21 @@
     "caption": "Caixinha de perguntas 💬 \"Preciso saber programar?\" Não! É só prompt — método testado, sem código. Qualquer pessoa pode criar sua modelo virtual 🙌\n\nLink na bio: persona-ia.pages.dev/comprar\n#personaia #modelovirtual #iainfluencer #avatarvirtual",
     "theme": "explicativo",
     "status": "pending"
+  },
+  {
+    "id": "novo-duvida-01",
+    "type": "reels",
+    "media_url": "https://raw.githubusercontent.com/vtrzmartil-stack/persona-ia-publisher/main/media/reels-novos/duvida-01.mp4",
+    "caption": "Tira-dúvidas 🙋 \"Isso é legal?\"\nSim! 100% dentro da lei — persona virtual é só uma ferramenta de criação de conteúdo 😊\n\nMais dúvidas? Link na bio: persona-ia.pages.dev/comprar\n#personaia #modelovirtual #iainfluencer #inteligenciaartificial #avatarvirtual",
+    "theme": "duvida",
+    "status": "pending"
+  },
+  {
+    "id": "novo-caixinha-01",
+    "type": "reels",
+    "media_url": "https://raw.githubusercontent.com/vtrzmartil-stack/persona-ia-publisher/main/media/reels-novos/caixinha-01.mp4",
+    "caption": "Caixinha de perguntas 💬 \"Quanto tempo leva pra criar uma modelo virtual?\"\nCom os prompts certos, a primeira foto sai em minutos 😉\n\nLink na bio: persona-ia.pages.dev/comprar\n#personaia #modelovirtual #iainfluencer #inteligenciaartificial #avatarvirtual",
+    "theme": "caixinha",
+    "status": "pending"
   }
 ]
