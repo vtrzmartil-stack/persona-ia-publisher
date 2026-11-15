@@ -45,7 +45,9 @@
     "media_url": "https://raw.githubusercontent.com/vtrzmartil-stack/persona-ia-publisher/main/media/reel-caixinha-ganhar-dinheiro.mp4",
     "caption": "Caixinha de perguntas 💬 \"Dá pra ganhar dinheiro com isso?\" Sim! Modelos virtuais já geram receita com conteúdo, parcerias e até produtos próprios 💰\n\nLink na bio: persona-ia.pages.dev/comprar\n#personaia #modelovirtual #iainfluencer #avatarvirtual",
     "theme": "venda",
-    "status": "pending"
+    "status": "published",
+    "published_media_id": "18048252428829133",
+    "published_at": "2026-11-15T00:58:12Z"
   },
   {
     "id": "republish-programar",
@@ -53,7 +55,9 @@
     "media_url": "https://raw.githubusercontent.com/vtrzmartil-stack/persona-ia-publisher/main/media/reel-caixinha-programar.mp4",
     "caption": "Caixinha de perguntas 💬 \"Preciso saber programar?\" Não! É só prompt — método testado, sem código. Qualquer pessoa pode criar sua modelo virtual 🙌\n\nLink na bio: persona-ia.pages.dev/comprar\n#personaia #modelovirtual #iainfluencer #avatarvirtual",
     "theme": "explicativo",
-    "status": "pending"
+    "status": "published",
+    "published_media_id": "18161000629518636",
+    "published_at": "2026-11-15T00:58:12Z"
   },
   {
     "id": "novo-duvida-01",
