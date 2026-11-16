@@ -1,21 +1,5 @@
 [
   {
-    "id": "novo-duvida-02",
-    "type": "reels",
-    "media_url": "https://raw.githubusercontent.com/vtrzmartil-stack/persona-ia-publisher/main/media/reels-novos/duvida-02.mp4",
-    "caption": "Tira-dúvidas 🙋 \"Preciso saber programar?\"\nNão! A gente cuida de toda a parte técnica pra você 💻\n\nMais dúvidas? Link na bio: persona-ia.pages.dev/comprar\n#personaia #modelovirtual #iainfluencer #inteligenciaartificial #avatarvirtual",
-    "theme": "duvida",
-    "status": "scheduled"
-  },
-  {
-    "id": "novo-caixinha-02",
-    "type": "reels",
-    "media_url": "https://raw.githubusercontent.com/vtrzmartil-stack/persona-ia-publisher/main/media/reels-novos/caixinha-02.mp4",
-    "caption": "Caixinha de perguntas 💬 \"Dá pra fazer part-time, com outro emprego?\"\nDá sim! Muita gente começa assim mesmo ☕\n\nLink na bio: persona-ia.pages.dev/comprar\n#personaia #modelovirtual #iainfluencer #inteligenciaartificial #avatarvirtual",
-    "theme": "caixinha",
-    "status": "scheduled"
-  },
-  {
     "id": "novo-explicativo-02",
     "type": "reels",
     "media_url": "https://raw.githubusercontent.com/vtrzmartil-stack/persona-ia-publisher/main/media/reels-novos/explicativo-02.mp4",
