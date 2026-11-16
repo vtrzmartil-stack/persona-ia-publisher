@@ -105,7 +105,9 @@
     "media_url": "https://raw.githubusercontent.com/vtrzmartil-stack/persona-ia-publisher/main/media/reels-novos/duvida-02.mp4",
     "caption": "Tira-dúvidas 🙋 \"Preciso saber programar?\"\nNão! A gente cuida de toda a parte técnica pra você 💻\n\nMais dúvidas? Link na bio: persona-ia.pages.dev/comprar\n#personaia #modelovirtual #iainfluencer #inteligenciaartificial #avatarvirtual",
     "theme": "duvida",
-    "status": "pending"
+    "status": "published",
+    "published_media_id": "18118564745600419",
+    "published_at": "2026-11-16T21:32:50Z"
   },
   {
     "id": "novo-caixinha-02",
@@ -113,6 +115,8 @@
     "media_url": "https://raw.githubusercontent.com/vtrzmartil-stack/persona-ia-publisher/main/media/reels-novos/caixinha-02.mp4",
     "caption": "Caixinha de perguntas 💬 \"Dá pra fazer part-time, com outro emprego?\"\nDá sim! Muita gente começa assim mesmo ☕\n\nLink na bio: persona-ia.pages.dev/comprar\n#personaia #modelovirtual #iainfluencer #inteligenciaartificial #avatarvirtual",
     "theme": "caixinha",
-    "status": "pending"
+    "status": "published",
+    "published_media_id": "18652659304055688",
+    "published_at": "2026-11-16T21:33:33Z"
   }
 ]
