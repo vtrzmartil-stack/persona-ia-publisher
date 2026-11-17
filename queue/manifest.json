@@ -125,7 +125,9 @@
     "media_url": "https://raw.githubusercontent.com/vtrzmartil-stack/persona-ia-publisher/main/media/reels-novos/explicativo-02.mp4",
     "caption": "Essa consistência de rosto não é sorte, é treino certo de IA generativa. É exatamente isso que a gente entrega pronto pra você 💡\n\nCrie a sua também: persona-ia.pages.dev/comprar\n#personaia #modelovirtual #iainfluencer #inteligenciaartificial #avatarvirtual",
     "theme": "explicativo",
-    "status": "pending"
+    "status": "published",
+    "published_media_id": "17939464524405491",
+    "published_at": "2026-11-17T20:23:16Z"
   },
   {
     "id": "novo-duvida-03",
@@ -133,6 +135,8 @@
     "media_url": "https://raw.githubusercontent.com/vtrzmartil-stack/persona-ia-publisher/main/media/reels-novos/duvida-03.mp4",
     "caption": "Tira-dúvidas 🙋 \"Quanto tempo leva pra ter a minha modelo virtual?\"\nBem menos do que você imagina ⏱️\n\nMais dúvidas? Link na bio: persona-ia.pages.dev/comprar\n#personaia #modelovirtual #iainfluencer #inteligenciaartificial #avatarvirtual",
     "theme": "duvida",
-    "status": "pending"
+    "status": "published",
+    "published_media_id": "18084292166720378",
+    "published_at": "2026-11-17T20:23:50Z"
   }
 ]
