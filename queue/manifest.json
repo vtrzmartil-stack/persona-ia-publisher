@@ -165,7 +165,9 @@
     "media_url": "https://raw.githubusercontent.com/vtrzmartil-stack/persona-ia-publisher/main/media/reels-novos/exemplo-02.mp4",
     "caption": "Fitness também é um dos nichos que mais funcionam com modelo virtual de IA 🔥 Quer ver como fica no seu nicho?\n\nLink na bio: persona-ia.pages.dev/comprar\n#personaia #modelovirtual #iainfluencer #inteligenciaartificial #avatarvirtual #fitness",
     "theme": "exemplo",
-    "status": "pending"
+    "status": "published",
+    "published_media_id": "18107406911377186",
+    "published_at": "2026-11-19T19:52:24Z"
   },
   {
     "id": "novo-duvida-04",
@@ -173,6 +175,8 @@
     "media_url": "https://raw.githubusercontent.com/vtrzmartil-stack/persona-ia-publisher/main/media/reels-novos/duvida-04.mp4",
     "caption": "Tira-dúvidas 🙋 \"Dá pra monetizar rápido com isso?\"\nMuita gente já está lucrando com conteúdo gerado por IA 💰\n\nMais dúvidas? Link na bio: persona-ia.pages.dev/comprar\n#personaia #modelovirtual #iainfluencer #inteligenciaartificial #avatarvirtual",
     "theme": "duvida",
-    "status": "pending"
+    "status": "published",
+    "published_media_id": "18129498448885727",
+    "published_at": "2026-11-19T19:53:07Z"
   }
 ]
