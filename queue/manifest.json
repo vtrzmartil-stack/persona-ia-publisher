@@ -185,7 +185,9 @@
     "media_url": "https://raw.githubusercontent.com/vtrzmartil-stack/persona-ia-publisher/main/media/reels-novos/caixinha-04.mp4",
     "caption": "Caixinha de perguntas 💬 \"Posso vender pra empresas também?\"\nSim! O mercado B2B de modelos virtuais tá crescendo rápido 📈\n\nLink na bio: persona-ia.pages.dev/comprar\n#personaia #modelovirtual #iainfluencer #inteligenciaartificial #avatarvirtual",
     "theme": "caixinha",
-    "status": "pending"
+    "status": "published",
+    "published_media_id": "18153391222552777",
+    "published_at": "2026-11-20T19:32:37Z"
   },
   {
     "id": "novo-explicativo-04",
@@ -193,6 +195,8 @@
     "media_url": "https://raw.githubusercontent.com/vtrzmartil-stack/persona-ia-publisher/main/media/reels-novos/explicativo-04.mp4",
     "caption": "Esse é o erro mais comum de quem tenta criar modelo virtual sozinho: o rosto muda de foto pra foto. A gente já resolveu isso pra você 🙌\n\nCrie a sua também: persona-ia.pages.dev/comprar\n#personaia #modelovirtual #iainfluencer #inteligenciaartificial #avatarvirtual",
     "theme": "explicativo",
-    "status": "pending"
+    "status": "published",
+    "published_media_id": "18171323503475197",
+    "published_at": "2026-11-20T19:33:22Z"
   }
 ]
