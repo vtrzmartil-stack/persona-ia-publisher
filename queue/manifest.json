@@ -265,7 +265,9 @@
     "media_url": "https://raw.githubusercontent.com/vtrzmartil-stack/persona-ia-publisher/main/media/reels-novos/explicativo-06.mp4",
     "caption": "Apresentando a persona oficial: 100% gerada por IA e pronta pra vender. Quer a sua própria? ✨\n\nCrie a sua também: persona-ia.pages.dev/comprar\n#personaia #modelovirtual #iainfluencer #inteligenciaartificial #avatarvirtual",
     "theme": "explicativo",
-    "status": "pending"
+    "status": "published",
+    "published_media_id": "17962864986016716",
+    "published_at": "2026-11-24T21:51:16Z"
   },
   {
     "id": "novo-duvida-07",
@@ -273,6 +275,8 @@
     "media_url": "https://raw.githubusercontent.com/vtrzmartil-stack/persona-ia-publisher/main/media/reels-novos/duvida-07.mp4",
     "caption": "Tira-dúvidas 🙋 \"Dá pra fazer vídeo falando, não só foto?\"\nSim, com a nossa tecnologia dá pra ir além da imagem estática 🎙️\n\nMais dúvidas? Link na bio: persona-ia.pages.dev/comprar\n#personaia #modelovirtual #iainfluencer #inteligenciaartificial #avatarvirtual",
     "theme": "duvida",
-    "status": "pending"
+    "status": "published",
+    "published_media_id": "17918823240556435",
+    "published_at": "2026-11-24T21:51:58Z"
   }
 ]
