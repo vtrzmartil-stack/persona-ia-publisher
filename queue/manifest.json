@@ -258,5 +258,21 @@
     "status": "published",
     "published_media_id": "18107978288457426",
     "published_at": "2026-11-23T23:16:22Z"
+  },
+  {
+    "id": "novo-explicativo-06",
+    "type": "reels",
+    "media_url": "https://raw.githubusercontent.com/vtrzmartil-stack/persona-ia-publisher/main/media/reels-novos/explicativo-06.mp4",
+    "caption": "Apresentando a persona oficial: 100% gerada por IA e pronta pra vender. Quer a sua própria? ✨\n\nCrie a sua também: persona-ia.pages.dev/comprar\n#personaia #modelovirtual #iainfluencer #inteligenciaartificial #avatarvirtual",
+    "theme": "explicativo",
+    "status": "pending"
+  },
+  {
+    "id": "novo-duvida-07",
+    "type": "reels",
+    "media_url": "https://raw.githubusercontent.com/vtrzmartil-stack/persona-ia-publisher/main/media/reels-novos/duvida-07.mp4",
+    "caption": "Tira-dúvidas 🙋 \"Dá pra fazer vídeo falando, não só foto?\"\nSim, com a nossa tecnologia dá pra ir além da imagem estática 🎙️\n\nMais dúvidas? Link na bio: persona-ia.pages.dev/comprar\n#personaia #modelovirtual #iainfluencer #inteligenciaartificial #avatarvirtual",
+    "theme": "duvida",
+    "status": "pending"
   }
 ]
