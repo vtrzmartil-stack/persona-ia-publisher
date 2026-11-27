@@ -318,5 +318,21 @@
     "status": "published",
     "published_media_id": "18380360032241049",
     "published_at": "2026-11-26T20:51:56Z"
+  },
+  {
+    "id": "novo-caixinha-08",
+    "type": "reels",
+    "media_url": "https://raw.githubusercontent.com/vtrzmartil-stack/persona-ia-publisher/main/media/reels-novos/caixinha-08.mp4",
+    "caption": "Caixinha de perguntas 💬 \"Posso usar fotos antigas minhas como ponto de partida?\"\nPode sim! A gente adapta a partir do que você já tem 📷\n\nLink na bio: persona-ia.pages.dev/comprar\n#personaia #modelovirtual #iainfluencer #inteligenciaartificial #avatarvirtual",
+    "theme": "caixinha",
+    "status": "pending"
+  },
+  {
+    "id": "novo-explicativo-08",
+    "type": "reels",
+    "media_url": "https://raw.githubusercontent.com/vtrzmartil-stack/persona-ia-publisher/main/media/reels-novos/explicativo-08.mp4",
+    "caption": "Cada imagem é escolhida a dedo pra manter a identidade visual da marca sempre igual 🖼️\n\nCrie a sua também: persona-ia.pages.dev/comprar\n#personaia #modelovirtual #iainfluencer #inteligenciaartificial #avatarvirtual",
+    "theme": "explicativo",
+    "status": "pending"
   }
 ]
