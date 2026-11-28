@@ -338,5 +338,21 @@
     "status": "published",
     "published_media_id": "18098425451155240",
     "published_at": "2026-11-27T20:36:49Z"
+  },
+  {
+    "id": "novo-duvida-09",
+    "type": "reels",
+    "media_url": "https://raw.githubusercontent.com/vtrzmartil-stack/persona-ia-publisher/main/media/reels-novos/duvida-09.mp4",
+    "caption": "Tira-dúvidas 🙋 \"Posso usar no TikTok e no Instagram ao mesmo tempo?\"\nClaro! O mesmo conteúdo funciona em simultâneo nas duas redes 📱\n\nMais dúvidas? Link na bio: persona-ia.pages.dev/comprar\n#personaia #modelovirtual #iainfluencer #inteligenciaartificial #avatarvirtual",
+    "theme": "duvida",
+    "status": "pending"
+  },
+  {
+    "id": "novo-caixinha-09",
+    "type": "reels",
+    "media_url": "https://raw.githubusercontent.com/vtrzmartil-stack/persona-ia-publisher/main/media/reels-novos/caixinha-09.mp4",
+    "caption": "Caixinha de perguntas 💬 \"Recebo atualizações depois de comprar?\"\nSim, sempre melhorando a tecnologia pra você 🔄\n\nLink na bio: persona-ia.pages.dev/comprar\n#personaia #modelovirtual #iainfluencer #inteligenciaartificial #avatarvirtual",
+    "theme": "caixinha",
+    "status": "pending"
   }
 ]
